@@ -1,4 +1,4 @@
-document.write("test")
+document.write("test2")
 
-//document.write(require(./histoire.js))
+document.write(require(./histoire.json))
 
