@@ -1,7 +1,6 @@
 document.write("question is :")
 
-
-var exercice = require(./histoire.js)
+//var exercice = require(./histoire.js)
 document.write("hello")
 document.write(exercice[0][0])
 
