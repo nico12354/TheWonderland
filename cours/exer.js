@@ -1,6 +1,6 @@
 document.write("test2");
 
-const data = require("./histoire");
+var data = require("./histoire");
 
 document.write(data)
 
