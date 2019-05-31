@@ -3,4 +3,4 @@ var exercice = [
 ["Who is ?","No"]
 ]
 
-exports.exercice = exercice;
+module.exports = exercice;
