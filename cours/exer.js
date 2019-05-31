@@ -1,4 +1,6 @@
-document.write("test2")
+document.write("test2");
 
-document.write(require(./histoire.json))
+const data = require("./histoire");
+
+document.write(data.exercice)
 
