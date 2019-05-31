@@ -1,4 +1,4 @@
-var exercice = [
+module.exports = [
 ["What is ?","Yes"]
 ["Who is ?","No"]
 ]

@@ -1,11 +1,4 @@
-document.write("question is 2 :")
+document.write("test")
 
 document.write(require(./histoire.js))
-document.write("hello")
-document.write(exercice[0][0])
-
-function clic() {
-  document.write("hello")
-}
-
 
