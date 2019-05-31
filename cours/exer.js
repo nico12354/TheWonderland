@@ -1,4 +1,4 @@
-document.write("test5 ");
+document.write("test6 ");
 
 var data = require("./histoire");
 //var data = ["1","2"]
