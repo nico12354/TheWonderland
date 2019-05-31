@@ -1,5 +1,5 @@
 var arr  = [
-["What is ?","Yes"]
+["What is ?","Yes"],
 ["Who is ?","No"]
 ]
 

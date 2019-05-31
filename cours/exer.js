@@ -1,7 +1,7 @@
-document.write("test8 ");
+document.write("test9 ");
 
-//var data = require("./histoire");
-var data = [["1","2"],["3","4"]]
+var data = require("./histoire");
+//var data = [["1","2"],["3","4"]]
 
 document.write(data)
 
