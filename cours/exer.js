@@ -1,7 +1,10 @@
-document.write("test10 ");
+document.write("test 1 ");
+var histoire = [
+["what is that ?","a chicken" ],
+["who is that ?","me"]
+]
 
-var data = require("./histoire");
-//var data = [["1","2"],["3","4"]]
 
-document.write(data.arr)
+
+document.write(histoire);
 

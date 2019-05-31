@@ -1,6 +1,0 @@
-var arr  = [
-["What is ?","Yes"],
-["Who is ?","No"]
-]
-
-module.exports = {arr};
