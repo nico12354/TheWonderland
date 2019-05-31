@@ -3,4 +3,4 @@ var arr  = [
 ["Who is ?","No"]
 ]
 
-module.exports = arr;
+module.exports = {arr};
