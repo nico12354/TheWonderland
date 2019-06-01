@@ -1,8 +1,9 @@
-document.write("test 4");
+document.write("test 5");
 var histoire = [
 ["what is that ?","a chicken" ],
 ["who is that ?","me"]
 ]
+document.write(histoire.length)
 
 var question = document.getElementById("q");
 var response = document.getElementById("r");
