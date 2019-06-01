@@ -32,7 +32,7 @@ function knowit ()
 {
 	if (nq == lq) 
 	{
-		nq = -1
+		nq = 0
 	}
 	arrayq.splice(nq,1)
 	lq = (arrayq.length - 1);
@@ -56,7 +56,7 @@ function load ()
 
 function refresh ()
 {
-	nq = 0;
+	nq = 1;
 	lq = (arrayq.length - 1);
 	counter.innerHTML = (nq+1) + " / " + (lq+1)
 	question.innerHTML = arrayq[nq][0];
