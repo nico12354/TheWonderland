@@ -12,9 +12,9 @@ counter.innerHTML = (nq+1) + " / " + (lq+1)
 question.innerHTML = arrayq[nq][0];
 response.innerHTML = " / ";
 
-function nextquestion () 
+function nextquestion ()
 {
-	if (nq == lq) 
+	if (nq == lq)
 	{
 		nq = -1
 	}
@@ -24,14 +24,14 @@ function nextquestion ()
 	response.innerHTML = " / ";
 }
 
-function reveal () 
+function reveal ()
 {
 	response.innerHTML = arrayq[nq][1];
 }
 
-function knowit () 
+function knowit ()
 {
-	if (nq == lq) 
+	if (nq == lq)
 	{
 		nq = 0
 	}
@@ -44,8 +44,6 @@ function knowit ()
 		nq -= 1
 		nextquestion()
 	}
-	
-	
 }
 
 function save ()
@@ -88,8 +86,4 @@ function Igoto ()
 		nq -= 1
 		refresh()
 	}
-
-
-	
-	
 }
