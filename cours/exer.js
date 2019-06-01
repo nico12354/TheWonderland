@@ -7,8 +7,14 @@ var histoire = [
 var question = document.getElementById("q");
 var response = document.getElementById("r");
 
-function exercice () {
-question.innerHTML = "hello";
+question.innerHTML = histoire[0][0];
+response.innerHTML = histoire[0][1];
 
+function nextquestion () {
+question.innerHTML = histoire[1][0];
+question.innerHTML = histoire[1][1];
 }
 
+function reveal () {
+
+}
