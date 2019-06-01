@@ -19,10 +19,10 @@ p {
     border: 3px #001a1a solid;
     width: 50%;
 	margin-left:20px;
-	 padding: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
 }
 
-button {
+button, input {
 	color: #001a1a;
 	width: 16%;
 	height: 30%;
@@ -30,6 +30,10 @@ button {
 	background-color: #009999;
  	border-color: #009999;
 	margin-left:20px;
+}
+
+input {
+	background-color: white;
 }
 
 #count {

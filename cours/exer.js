@@ -3,6 +3,7 @@ var arrayq = histoire;
 var question = document.getElementById("q");
 var response = document.getElementById("r");
 var counter = document.getElementById("count");
+var ingoto = document.getElementById("inputgoto").value;
 
 var nq = 0;
 var lq = (arrayq.length - 1);
@@ -21,6 +22,7 @@ function nextquestion ()
 	counter.innerHTML = (nq+1) + " / " + (lq+1)
 	question.innerHTML = arrayq[nq][0];
 	response.innerHTML = " / ";
+	console.log(ingoto)
 }
 
 function reveal () 
@@ -51,14 +53,38 @@ function load ()
 {
 	var userload = JSON.parse(localStorage['arrayq']);
 	arrayq = userload
+	nq = 0;
 	refresh ()
 }
 
 function refresh ()
 {
-	nq = 1;
 	lq = (arrayq.length - 1);
 	counter.innerHTML = (nq+1) + " / " + (lq+1)
 	question.innerHTML = arrayq[nq][0];
 	response.innerHTML = " / ";
+}
+
+function Igoto ()
+{
+	ingoto = document.getElementById("inputgoto").value;
+	nq = parseInt(ingoto)
+	lq = (arrayq.length - 1);
+	if (isNaN(nq)){
+		nq = 0
+		refresh()
+	} else if (nq <= 0){
+		nq = 0
+		refresh()
+	} else if (nq > lq){
+		nq = lq
+		refresh()
+	} else {
+		nq -= 1
+		refresh()
+	}
+
+
+	
+	
 }
