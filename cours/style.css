@@ -4,7 +4,7 @@ body {
     width: 100;
 }
 
-p, h2 {
+p, h2, h1{
     color: #f5f6fa
 
 }
@@ -20,8 +20,8 @@ p {
 
 button {
   color: #001a1a;
-  width: 10%;
-  height: 20%;
+  width: 20%;
+  height: 30%;
   background-color: #009999;
   border-color: #009999;
 }
