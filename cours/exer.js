@@ -3,17 +3,23 @@ var histoire = [
 ["what is that ?","a chicken" ],
 ["who is that ?","me"]
 ]
-document.write(histoire.length)
+//document.write(histoire.length)
 
 var question = document.getElementById("q");
 var response = document.getElementById("r");
 
 var nq = 0;
+var lq = (histoire.length - 1);
 
 question.innerHTML = histoire[nq][0];
 response.innerHTML = " ";
 
 function nextquestion () {
+
+if (nq == lq) {
+nq = -1
+}
+
 nq += 1;
 question.innerHTML = histoire[nq][0];
 response.innerHTML = " ";
