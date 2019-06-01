@@ -13,7 +13,7 @@ var nq = 0;
 var lq = (histoire.length - 1);
 
 
-counter.innerHTML = "${nq+1}/${lq+1}"
+counter.innerHTML = (nq+1) + " / " + (lq+1)
 question.innerHTML = histoire[nq][0];
 response.innerHTML = " ";
 
