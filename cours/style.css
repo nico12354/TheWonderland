@@ -4,11 +4,13 @@ body {
     width: 100;
 }
 
-p, h2, h1{
-    color: #f5f6fa
-
+p, h2 ,h1 {
+    color: #fff;
 }
 
+* {
+	font-family: "Verdana";
+}
 p {
 	color: #fff;
     background-color: #006666;
@@ -16,14 +18,16 @@ p {
     font-size: 18pt;
     border: 3px #001a1a solid;
     width: 50%;
+	margin-left:20px;
 }
 
 button {
-  color: #001a1a;
-  width: 20%;
-  height: 30%;
-  background-color: #009999;
-  border-color: #009999;
+	color: #001a1a;
+	width: 20%;
+	height: 30%;
+	background-color: #009999;
+ 	border-color: #009999;
+	margin-left:20px;
 }
 
 #count {
