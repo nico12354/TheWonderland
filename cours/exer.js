@@ -1,4 +1,4 @@
-document.write("test 3 ");
+document.write("test 4");
 var histoire = [
 ["what is that ?","a chicken" ],
 ["who is that ?","me"]
@@ -7,14 +7,17 @@ var histoire = [
 var question = document.getElementById("q");
 var response = document.getElementById("r");
 
-question.innerHTML = histoire[0][0];
-response.innerHTML = histoire[0][1];
+var nq = 0;
+
+question.innerHTML = histoire[nq][0];
+response.innerHTML = " ";
 
 function nextquestion () {
-question.innerHTML = histoire[1][0];
-question.innerHTML = histoire[1][1];
+nq += 1;
+question.innerHTML = histoire[nq][0];
+response.innerHTML = " ";
 }
 
 function reveal () {
-
+response.innerHTML = histoire[nq][1];
 }
