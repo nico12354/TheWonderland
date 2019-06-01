@@ -5,6 +5,8 @@ var histoire = [
 ]
 
 function exercice () {
-document.write(histoire);
+document.write(histoire[0][0]);
+document.write(histoire[0][1]);
+
 }
 
