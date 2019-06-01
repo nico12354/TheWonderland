@@ -19,12 +19,14 @@ p {
     border: 3px #001a1a solid;
     width: 50%;
 	margin-left:20px;
+	 padding: 10px 10px 10px 10px;
 }
 
 button {
 	color: #001a1a;
 	width: 20%;
 	height: 30%;
+	font-size: 14pt;
 	background-color: #009999;
  	border-color: #009999;
 	margin-left:20px;
