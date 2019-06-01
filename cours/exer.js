@@ -1,12 +1,14 @@
-document.write("test 2 ");
+document.write("test 3 ");
 var histoire = [
 ["what is that ?","a chicken" ],
 ["who is that ?","me"]
 ]
 
+var question = document.getElementById("q");
+var response = document.getElementById("r");
+
 function exercice () {
-document.write(histoire[0][0]);
-document.write(histoire[0][1]);
+question.innerHTML = "hello";
 
 }
 
