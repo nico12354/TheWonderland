@@ -31,11 +31,11 @@ function reveal ()
 
 function knowit ()
 {
+	arrayq.splice(nq,1)
 	if (nq == lq)
 	{
 		nq = 0
 	}
-	arrayq.splice(nq,1)
 	lq = (arrayq.length - 1);
 	counter.innerHTML = (nq+1) + " / " + (lq+1)
 	if (lq == -1) {
