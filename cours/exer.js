@@ -88,8 +88,8 @@ function Igoto ()
 	}
 }
 
-function Fshuffle ()
+function fshuffle ()
 {
-	arrayq = shuffle(arrayq)
+	shuffle(arrayq)
 	refresh()
 }
