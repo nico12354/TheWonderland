@@ -87,3 +87,8 @@ function Igoto ()
 		refresh()
 	}
 }
+
+function Fshuffle ()
+{
+	shuffle(arrayq)
+}
