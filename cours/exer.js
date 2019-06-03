@@ -90,7 +90,6 @@ function Igoto ()
 
 function Fshuffle ()
 {
-	console.log("shuffle")
-	shuffle(arrayq)
+	arrayq = shuffle(arrayq)
 	refresh()
 }
