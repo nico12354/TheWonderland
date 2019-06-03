@@ -91,4 +91,5 @@ function Igoto ()
 function Fshuffle ()
 {
 	shuffle(arrayq)
+	refresh()
 }
