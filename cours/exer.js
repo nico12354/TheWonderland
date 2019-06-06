@@ -4,6 +4,7 @@ var question = document.getElementById("q");
 var response = document.getElementById("r");
 var counter = document.getElementById("count");
 var ingoto = document.getElementById("inputgoto").value;
+var lessonselect = document.getElementById("lessonlist");
 
 var nq = 0;
 var lq = (arrayq.length - 1);
@@ -112,4 +113,10 @@ function fshuffle ()
 	console.log("woulah")
 	shuffle(arrayq)
 	refresh()
+}
+
+function changelesson () 
+{
+	lessonselect = document.getElementById("lessonlist");
+	console.log(lessonselect)
 }
