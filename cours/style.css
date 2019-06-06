@@ -22,7 +22,7 @@ p {
 	padding: 10px 10px 10px 10px;
 }
 
-button, input {
+button, input, select {
 	color: #001a1a;
 	width: 16%;
 	height: 30%;
