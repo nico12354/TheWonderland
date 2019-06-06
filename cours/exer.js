@@ -90,7 +90,7 @@ function Igoto ()
 
 function fshuffle ()
 {
-	message.log("woulah")
+	console.log("woulah")
 	shuffle(arrayq)
 	refresh()
 }
