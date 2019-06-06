@@ -117,6 +117,6 @@ function fshuffle ()
 
 function changelesson () 
 {
-	lessonselect = document.getElementById("lessonlist");
+	lessonselect = document.getElementById("lessonlist").value;
 	console.log(lessonselect)
 }
