@@ -152,6 +152,9 @@ var economie = [
 ["Quels sont les fonctions du marché de change ?"," - Il permet la naissance des transactions internationales <br> - il fournit les moyens de règlement de ces relations <br> - il assure la couverture des risques inhérents aux opérations et mécanismes de change "],
 ["Quels sont les particularités propres au marché de change ?"," - C’est un marché abstrait, universel et continu (pas de localisation dans le temps ni dans l’espace) <br> - Il n’a pas de limite <br> - Il est équilibré (ajustement entre l’offre et la demande) <br> - il est réglementé "],
 ["Définit le taux de change ","Le taux de change correspond au “prix” d’une monnaie exprimé en unités d’une autre monnaie. C’est le résultat de la rencontre entre l’offre et la demande de devises. "]
+
+// FAIRE LE MARCHE DU TRAVAIL
+
 ];
 
 
@@ -206,7 +209,8 @@ var histoireart = [
 
 
 var histoireartdiapo = [
-["hia dia "," "]
+['<img src="data_img/o01.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o02.jpg" alt="HTML5 Icon"/>',' ']
 ];
 
 
