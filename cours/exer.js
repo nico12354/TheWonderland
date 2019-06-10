@@ -110,7 +110,6 @@ function shuffle(array) {
 
 function fshuffle ()
 {
-	console.log("woulah")
 	shuffle(arrayq)
 	refresh()
 }
@@ -118,5 +117,23 @@ function fshuffle ()
 function changelesson () 
 {
 	lessonselect = document.getElementById("lessonlist").value;
-	console.log(lessonselect)
+	if (lessonselect == "hi"){
+		arrayq = histoire;
+	} else if (lessonselect == "ec") {
+		arrayq = economie;
+	} else if (lessonselect == "re") {
+		arrayq = religion;
+	} else if (lessonselect == "ge") {
+		arrayq = geographie;
+	} else if (lessonselect == "sc") {
+		arrayq = science;
+	} else if (lessonselect == "fr") {
+		arrayq = francais;
+	} else if (lessonselect == "ha") {
+		arrayq = histoireart;
+	} else if (lessonselect == "hadi") {
+		arrayq = histoireartdiapo;
+	}
+	nq = 0;
+	refresh()
 }

@@ -110,4 +110,105 @@ var histoire = [
 ];
 
 
+
+
+
+var economie = [
+["Qu'est ce que la concentration des entreprises ?","La réunion de facteurs de production autour d’un centre "],
+["Qu'est ce que la croissance interne ?","L’entreprise primitive augmente de taille "],
+["Qu'est ce que la croissance externe ?","L’entreprise croît par absorption d’autres entreprises "],
+["Qu'est ce que la concentration horizontale ?","agrandissement par une même activité "],
+["Qu'est ce que la concentration verticale ?","agrandissement en lien avec l’activité initiale "],
+["Qu'est ce que la concentration conglomérale ?","agrandissement sans lien avec l’activité initiale "],
+["Quels sont les différents motifs de concentration ? "," - Recherche de profit : la concentration, en fonction de son type, permet un meilleur profit <br> - Le progrès technique : L’augmentation des techniques de production poussent à l’investissement, et la concentration en diminue les coûts <br> - la libre concurrence : La concentration diminue la concurrence et aide les entreprises à faire face à des marchés élargies <br> - l’ouverture douanière : Recherche d’une dimension internationale par les firmes pour pouvoir profiter de la chute des barrières douanières et de l’ouverture des marchés <br> - le pouvoir de négociation : La concentration permet d’augmenter la “carrure” de l’entreprise, et donc son influence <br> - la recherche des coûts unitaires plus faibles : Recherche d’économie d’échelle ⇒ lorsque l’augmentation des quantités produites se traduit par une réduction du coût unitaire <br> - les crises économiques : Elles font disparaître les firmes les moins résistantes, et celles mises en difficulté peuvent être reprises par d’autres. La concentration peut donc être possible assez aisément."],
+["Quels sont les différentes techniques pour croitre ? "," - Les cartels: association d’entreprises pratiquant une entente des prix <br> - Fusion: regroupement d’entreprises pour former une nouvelle entreprise <br> - Absorption: reprise d’une première entreprise par une seconde, la première disparaissant et l’autre non. <br> - OPA (offre publique d’achat): vente des actions d’une entreprise sur le marché "],
+["Quels sont les caractéristiques des multinationales ? "," - Une flexibilité relative: Leur permet d’échapper ou de contourner certaines mesures nationales <br> - Une stratégie mondialisée: Les activités sont internationalisées avec une centralisation des systèmes financiers, de la recherche. <br> - Des avantages monopolistiques: (sur les plans technique, financier, politique, marketing, produits, … ) permettant de concurrencer les firmes nationales.  "],
+["Quels sont les motifs de l'approche multinationale ? "," - Contraintes d’approvisionnement : contrôler les ressources et la distribution <br> - L’existence d’espace nationaux : profiter des différences aux niveaux légales <br> - La structure oligopolistique internationale : cartel, entente entre les grosses entreprises <br> - Les coûts de production : On cherche à les réduire en diminuant les coûts de transport, salariaux et sociaux "],
+["Quels sont les implications de l'apporche multinationale sur le quotidien des consommateur ? ","Sur le marché, les prix et quantités échangées ainsi que les conditions de l’échange sont moins bons que si la concurrence faisait rage. "],
+["Quels sont les implications de l'apporche multinationale sur le quotidien de l'économie nationale ","Impact sur la production, sur l'emploi et sur l'état "],
+["Quels sont les implications de l'apporche multinationale sur le quotidien de l'économie mondiale ","Impact économique, environnemental et social"],
+//["Au niveau nationale de la régulation des marchés, quels sont les instutions en charge de la concurrence ? "," "],
+//["Au niveau nationale de la régulation des marchés, quel est leur mission ?"," "],
+["Au niveau nationale de la régulation des marchés, quels sont leurs compétences ?"," - Appliquer les livre du Code de droit économique <br> - Examiner les pratiques restrictives de concurrence (entente sur les prix,...) et l’admissibilité des concentrations (si la concentration n’engendre pas un monopole) <br> - Coopère avec les autres autorités de concurrence "],
+//["Au niveau nationale de la régulation des marchés, cite des exemple de restritions ?"," "],
+//["Au niveau nationale de la régulation des marchés, cite des exemples de concentration ?"," "],
+["Au niveau européen de la régulation des marchés, quel es le role de la politique de concurrence ?","La politique de concurrence vise à faire appliquer des règles garantissant que les entreprises se livrent une concurrence loyale. La politique de concurrence contribue à stimuler l'esprit d'entreprise et la productivité, à élargir l'offre pour les consommateurs, à faire baisser les prix et à améliorer la qualité des biens et services. "],
+["Au niveau européen de la régulation des marchés, quels sont leurs domaines d'action ?"," - Anti-trust (ententes et pratiques concertées) <br> - Les cartels <br> - Les fusions <br> - Les aides d’état <br> - Les entreprises publiques et la libéralisation du marché <br> - La collaboration au niveau international "],
+["Cite les raisons d’être des réglementations de régulation des marchés","Pour éviter que les coûts liés aux externalités (sociales, environnementales,...) ne soient payés par l’Etat, et donc par la collectivité. "],
+["Quels sont les solution privée pour la régulation des marchés"," - interdits moraux qui empêchent certains comportements <br> - intervention d’associations caritatives privées (le plus important !!!) <br> - solution du marché (théorème de Coase : par la négociation, on atteindra forcément la meilleure solution possible) "],
+["Quels sont les solution publique pour la régulation des marchés"," - attitude autoritaire de l’etat (interdir les mauvais comportements) : coûteuse pour la société et pas forcément efficace <br> - solutions de marché suscitées par l’état : inciter plutôt qu’ordonner <br> - taxer les comportements négatifs et subventionner les comportements positifs. <br> - permis de polluer "],
+//Partie 2
+["Dans la théorie de l’échange et organisation du commerce international, explique le libéralisme ","Pour le libéralisme, les échanges commerciaux internationaux doivent se faire selon la théorie des avantages absolus d’Adam smith (tout pays se doit de produire principalement là où il est le meilleure) et selon la théorie des avantages comparatifs de david Ricardo (un pays doit se spécialiser là où il est le moins mauvais, s’il n’est le meilleur nul part) "],
+["Dans la théorie de l’échange et organisation du commerce international, explique le protectionnisme ","Cette politique préconise l’intervention de l’Etat dans les relations économiques internationales pour sauvegarder les emplois nationaux, lutter contre le dumping, diminuer les déséquilibre de la balance commerciale en diminuant les importations, de conserver son indépendance économique,... Pour ce faire, l’Etat doit taxer les importations, imposer des quotas sur ces dernières et donner des subventions aux entreprises nationales. Cependant, cette pratique à plusieurs dangers, en effet, l’évolution technologique est rendue plus difficile, il y a une baisse de la qualité (car substitution aux biens qui pourraient et devraient être importés), les autres pays peuvent appliquer des sanctions et rendre l’exportation plus difficile,... "],
+["Dans la théorie de l’échange et organisation du commerce international, explique la théorie de l'échange inégal ","Selon cette théorie, il existe un échange inégal (injuste) entre les pays de la périphérie et du centre. En effet, les pays de la périphérie sont obligés d’exporter leurs produits à des prix bons marchés, tandis que les pays du centre peuvent se permettre des prix beaucoup plus exorbitants. Cette inégalité est dû à la différence de salaires et de protections salariales (syndicats) entre les pays du centre et ceux de la périphérie. "],
+["Dans la théorie de l’échange et organisation du commerce international, explique le libre échange et les accords internationaux "," - Échanges commerciaux : les plus grands flux commerciaux se font entre l’Europe, l’Amérique du Nord et l’Asie Pacifique <br> - L’Union Européenne : zone de commerce intra-européenne (marché unique). But : assurer la libre circulation des personnes, des marchandises, des capitaux et des services. Mais pour gérer ce marché unique, il existe la Commission européenne, qui contrôle les états et peut faire pression sur ces derniers. <br> - Le GATT : Construit en 1948, c’est un accord qui a pour but la non-discrimination, l’abaissement progressif des droits de douanes, la suppression des barrières protectionnistes et l’interdiction du dumping. <br> - L’OMC : C’est une organisation qui remplace le GATT à partir de 1995. Elle a les mêmes objectifs et plus d’autorité. Elle possède … "],
+["Dans la théorie de l’échange et organisation du commerce international, cite les avantages du libre échange et des accords internationaux"," - Le système contribue à maintenir la paix <br> - Le système permet de traiter les différends de façon constructives <br> - Un système fondé sur des règles et non sur les rapports de force rend à chacun la vie plus facile <br> - la libéralisation des échanges abaisse le coût de la vie <br> - elle offre plus de choix aux consommateurs et élargit la gamme des qualités proposées <br> - le commerce accroît les revenus <br> - Le commerce stimule la croissance économique <br> - les principes fondamentaux rendent le système plus efficace sur le plan économique et réduisent les coûts <br> - le système met les gouvernements à l’abri des intérêts particuliers <br> - le système encourage les bonnes pratiques de gouvernement "],
+["Dans la théorie de l’échange et organisation du commerce international, cite les désavantages du libre échange et accords internationaux"," - L’OMC dicte les politiques <br> - L’OMC préconise le libre-échange à tout prix <br> - Les intérêts commerciaux priment sur le développement, sur l’environnement et sur la santé et la sécurité <br> - L’OMC supprime des emplois et aggrave la pauvreté <br> - Les petits pays sont impuissants à l’OMC <br> - L’OMC est l’instrument de puissants groupes de pression <br> - Les pays les plus faibles sont contraints de devenir Membres de l’OMC <br> - L’OMC n’est pas démocratique "],
+["Définit la balance des paiements ","La balance des paiements représente l’ensemble des transactions effectuées par un pays avec le monde entier. Elle se compose de quatre parties : les transactions invisibles (transactions de services comme le tourisme, les frais de port), les transactions visibles (la balance commerciale, exportations - importations), les transactions de transferts (gratuites, comme de l’aide alimentaire ou des dons), et les transactions de capitaux ( mouvements de capitaux venant des etats, des entreprises ou des ménages) "],
+["Quels sont les causes du déséquilibre de la balance des paiements ? "," - Conjoncturelles : les fluctuations de la demande (ex : augmentation des rémunérations) <br> - Structurelles : Les mouvements de l’offre (ex : innovation, progrès technique) <br> - Financières : les mouvements de capitaux (ex : la spéculation)"],
+["Quels sont les conséquences du déséquilibre de la balance des paiements ? "," - Fluctuation des cours du change <br> - inflation <br> - réorientation de l’activité économique nationale <br> - croissance économique <br> - propension marginale à importer "],
+["Comment rééquilibrer la balance des paiements "," - Le rééquilibrage automatique (si excédent, il faut dépenser) <br> - Protectionnisme (diminuer les importations) <br> - Adapter la politique de changes <br> - Adapter la politique économique"],
+["Définit le change ","L’opération de change consiste à vendre ou à acheter contre de la monnaie nationale de la monnaie étrangère. Cette opération à lieu sur un marché des changes. "],
+["Quels sont les fonctions du marché de change ?"," - Il permet la naissance des transactions internationales <br> - il fournit les moyens de règlement de ces relations <br> - il assure la couverture des risques inhérents aux opérations et mécanismes de change "],
+["Quels sont les particularités propres au marché de change ?"," - C’est un marché abstrait, universel et continu (pas de localisation dans le temps ni dans l’espace) <br> - Il n’a pas de limite <br> - Il est équilibré (ajustement entre l’offre et la demande) <br> - il est réglementé "],
+["Définit le taux de change ","Le taux de change correspond au “prix” d’une monnaie exprimé en unités d’une autre monnaie. C’est le résultat de la rencontre entre l’offre et la demande de devises. "]
+];
+
+
+
+
+
+
+
+var religion = [
+["rel "," "]
+];
+
+
+
+
+
+
+
+
+var geographie = [
+["géo "," "]
+];
+
+
+
+
+
+var science = [
+["sci "," "]
+];
+
+
+
+
+
+
+var francais = [
+["fra "," "]
+];
+
+
+
+
+
+
+var histoireart = [
+["hia "," "]
+];
+
+
+
+
+
+var histoireartdiapo = [
+["hia dia "," "]
+];
+
+
 //[" "," "],
+
