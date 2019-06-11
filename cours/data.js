@@ -164,7 +164,7 @@ var economie = [
 
 
 var religion = [
-["rel "," "]
+["Qu'est ce que la metampsychose ?","Transfert d'une ame vers un autre corps"]
 ];
 
 
