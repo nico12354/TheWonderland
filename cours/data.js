@@ -156,32 +156,7 @@ var economie = [
 ["Quels sont les fonctions du marché de change ?"," - Il permet la naissance des transactions internationales <br> - il fournit les moyens de règlement de ces relations <br> - il assure la couverture des risques inhérents aux opérations et mécanismes de change "],
 ["Quels sont les particularités propres au marché de change ?"," - C’est un marché abstrait, universel et continu (pas de localisation dans le temps ni dans l’espace) <br> - Il n’a pas de limite <br> - Il est équilibré (ajustement entre l’offre et la demande) <br> - il est réglementé "],
 ["Définit le taux de change ","Le taux de change correspond au “prix” d’une monnaie exprimé en unités d’une autre monnaie. C’est le résultat de la rencontre entre l’offre et la demande de devises. "]
-
-// FAIRE LE MARCHE DU TRAVAIL
-
 ];
-
-
-
-
-
-
-
-var religion = [
-["Qu'est ce que la metampsychose ?","Transfert d'une ame vers un autre corps"]
-];
-
-
-
-
-
-
-
-
-var geographie = [
-["géo "," "]
-];
-
 
 
 
@@ -213,8 +188,105 @@ var histoireart = [
 
 
 var histoireartdiapo = [
-['<img src="data_img/o01.jpg" alt="HTML5 Icon"/>',' '],
-['<img src="data_img/o02.jpg" alt="HTML5 Icon"/>',' ']
+['<img src="data_img/o01.jpg" alt="HTML5 Icon"/>','Carnet du voyage au Maroc, Delacroix, Romantisme'],
+['<img src="data_img/o02.jpg" alt="HTML5 Icon"/>','La Vierge aux rochers, Léonard de Vinci, Second Renaissance'],
+['<img src="data_img/o03.jpg" alt="HTML5 Icon"/>','La Grande Odalisque, Jean-Auguste-Dominique Ingres, Néo-classicisme'],
+['<img src="data_img/o04.jpg" alt="HTML5 Icon"/>','La Cène, Leonard de Vinci, Seconde Renaissance '],
+['<img src="data_img/o05.jpg" alt="HTML5 Icon"/>','Basilique Saint-Pierre, Maderno, Baroque'],
+['<img src="data_img/o06.jpg" alt="HTML5 Icon"/>','La Famille Bellelli, Edgar Degas, Impressionisme'],
+['<img src="data_img/o07.jpg" alt="HTML5 Icon"/>',"L'Extase de sainte Thérèse, Bernini, Baroque"],
+['<img src="data_img/o08.jpg" alt="HTML5 Icon"/>','Le Sacre de Napoléon, Jacques-Louis David, Néo-classicisme'],
+['<img src="data_img/o09.jpg" alt="HTML5 Icon"/>','Autoportrait, Jean Fouquet, Première Renaissance '],
+['<img src="data_img/o10.jpg" alt="HTML5 Icon"/>','Eglise Sainte-Agnès-en-Agone, Boronini, Baroque '],
+['<img src="data_img/o11.jpg" alt="HTML5 Icon"/>','Vénus et Adonis, Titien, Renaissance'],
+['<img src="data_img/o12.jpg" alt="HTML5 Icon"/>','Chateau de chambord, Diffusion Renaissance'],
+['<img src="data_img/o13.jpg" alt="HTML5 Icon"/>','Corbeille de fruits, Caravage, Baroque'],
+['<img src="data_img/o14.jpg" alt="HTML5 Icon"/>','Tempietto,  '],
+['<img src="data_img/o15.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o16.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o17.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o18.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o19.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o20.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o21.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o22.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o23.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o24.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o25.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o26.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o27.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o28.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o29.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o30.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o31.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o32.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o33.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o34.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o35.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o36.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o37.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o38.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o39.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o40.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o41.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o42.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o43.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o44.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o45.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o46.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o47.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o48.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o49.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o50.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o51.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o52.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o53.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o54.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o55.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o56.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o57.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o58.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o59.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o60.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o61.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o62.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o63.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o64.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o65.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o66.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o67.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o68.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o69.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o70.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o71.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o72.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o73.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o74.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o75.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o76.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o77.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o78.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o79.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o80.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o81.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o82.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o83.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o84.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o85.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o86.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o87.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o88.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o89.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o90.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o91.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o92.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o93.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o94.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o95.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o96.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o97.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o98.jpg" alt="HTML5 Icon"/>',' '],
+['<img src="data_img/o99.jpg" alt="HTML5 Icon"/>',' '],
 ];
 
 

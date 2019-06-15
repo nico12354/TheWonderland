@@ -121,10 +121,6 @@ function changelesson ()
 		arrayq = histoire;
 	} else if (lessonselect == "ec") {
 		arrayq = economie;
-	} else if (lessonselect == "re") {
-		arrayq = religion;
-	} else if (lessonselect == "ge") {
-		arrayq = geographie;
 	} else if (lessonselect == "sc") {
 		arrayq = science;
 	} else if (lessonselect == "fr") {
