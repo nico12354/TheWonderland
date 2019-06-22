@@ -1,4 +1,4 @@
-var arrayq = economie;
+var arrayq = histoireartdiapo;
 
 var question = document.getElementById("q");
 var response = document.getElementById("r");

@@ -7,30 +7,29 @@
     </head>
 
     <body>
-        <!--<h1>The Wonderland</h1>-->
-        <!--<h2>Les cartes magiques !</h2>-->	
-	<p id="count"> counter </p>
-	<button onclick="nextquestion()">Carte suivante</button>
-	<button onclick="reveal()">Révéler la réponse</button>
-    <button onclick="knowit()">Je connais cette carte !</button>
-	<p id="q">question</p>
-	<p id="r">reponse</p>
-    <button onclick="save()">Sauvegarder la progression</button>
-    <button onclick="load()">Charger la progression</button>
-    <br>
-    <br>
-    <button onclick="Igoto()">Aller à la carte :</button>
+	    <p id="count"> counter </p>
+	    <button onclick="nextquestion()">Carte suivante</button>
+	    <button onclick="reveal()">Révéler la réponse</button>
+        <button onclick="knowit()">Je connais cette carte !</button>
+	    <p id="q">question</p>
+	    <p id="r">reponse</p>
+        <button onclick="save()">Sauvegarder la progression</button>
+        <button onclick="load()">Charger la progression</button>
+        <br>
+        <br>
+        <button onclick="Igoto()">Aller à la carte :</button>
 	    <input type="text" id="inputgoto" autocomplete="off">
 	    <br>
 	    <br>
 	    <button onclick="fshuffle()"> Mélanger les cartes</button>    
-    <script src="data.js"></script>
-   	<script src="exer.js"></script>
-    <button onclick="changelesson()">Changer le type de question</button>
-    <select id="lessonlist">
+        <button onclick="changelesson()">Changer le type de question</button>
+        <select id="lessonlist">
         <option value="hi">Histoire</option>
         <option value="ec">Economie</option>
         <option value="hadi">Histoire de l'art - Diapo</option>
-    </select>
+        </select>
+
+        <script src="data.js"></script>
+        <script src="exer.js"></script>
     </body>
 </html>
