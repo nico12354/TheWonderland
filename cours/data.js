@@ -158,35 +158,6 @@ var economie = [
 ["Définit le taux de change ","Le taux de change correspond au “prix” d’une monnaie exprimé en unités d’une autre monnaie. C’est le résultat de la rencontre entre l’offre et la demande de devises. "]
 ];
 
-
-
-
-var science = [
-["sci "," "]
-];
-
-
-
-
-
-
-var francais = [
-["fra "," "]
-];
-
-
-
-
-
-
-var histoireart = [
-["hia "," "]
-];
-
-
-
-
-
 var histoireartdiapo = [
 ['<img src="data_img/o01.jpg" />','Carnet du voyage au Maroc, Delacroix, Romantisme'],
 ['<img src="data_img/o02.jpg" />','La Vierge aux rochers, Léonard de Vinci, Second Renaissance'],
@@ -251,7 +222,7 @@ var histoireartdiapo = [
 ['<img src="data_img/o61.jpg" />','La Laitière, Vermeer, Baroque Hollandais '],
 ['<img src="data_img/o62.jpg" />','Les quatres Saisons, Giuseppe Arcimboldo, diffusion Renaissance '],
 ['<img src="data_img/o63.jpg" />','Bacchus et Ariane, Le Titien, Seconde Renaissance '],
-['<img src="data_img/o64.jpg" />','Chute des géants, Diffusion renaissance '],
+['<img src="data_img/o64.jpg" />','Chute des géants, Giulio Romano, Diffusion renaissance '],
 ['<img src="data_img/o65.jpg" />','Cathédrales de Rouen, Monet, Impressionnisme '],
 ['<img src="data_img/o66.jpg" />','Voltaire assis, Jean-Antoire Houdon, Néo-classicisme '],
 ['<img src="data_img/o67.jpg" />',"L'enlèvement de Proserpine, Le Bernin, Baroque Italien"],

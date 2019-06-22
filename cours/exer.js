@@ -121,12 +121,6 @@ function changelesson ()
 		arrayq = histoire;
 	} else if (lessonselect == "ec") {
 		arrayq = economie;
-	} else if (lessonselect == "sc") {
-		arrayq = science;
-	} else if (lessonselect == "fr") {
-		arrayq = francais;
-	} else if (lessonselect == "ha") {
-		arrayq = histoireart;
 	} else if (lessonselect == "hadi") {
 		arrayq = histoireartdiapo;
 	}
