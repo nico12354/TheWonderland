@@ -5,8 +5,15 @@
         <title>The Wonderland : Game</title>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
-
+        
     <body>
-        <p>Ici c'est les jeux ! :D</p>
+        <script src="pixi.min.js"></script>
+
+        <script type="text/javascript">
+            
+            let app = new PIXI.Application({width: 256, height: 256});
+            document.body.appendChild(app.view);
+        </script>
+        
     </body>
 </html>
