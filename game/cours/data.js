@@ -1,3 +1,12 @@
+var mots = [
+["odeur particulière, habituellement agréable, que prend la terre après la pluie. <br> <I> « L’odeur de la terre après la pluie, on appelle ça le pétrichor. Mais la ville mouillée, je crois que ça n'a pas de nom. » <I>","pétrichor"],
+["",""],
+["",""]
+
+
+]
+
+
 var histoire = [
 ["Citer les différentes raisons qui expliquent l'émergence de l'extrèment droite en Europe durant la période des années 30","- Krach boursier de 1929 <br> - Augmentation chômage, diminution production et valeur des titres boursiers (Etat ne peut intervenir) <br> - Protectionnisme et dévaluation de la monnaie <br> - Défaite et diktat de Versailles = arrivée de régime Totalitaires <br> - Peur du communisme"],
 ["Citer l'exemple de huit pays et leader fascistes des années 30","- Léon Degrelle (Belgique) <br> - Benito Mussolini (Italie) <br> - Adolf Hitler (Allemagne) <br> - Géneral Franco (Espagne) <br> - Oswald Mosley (Angleterre) <br> - Charles Maurras (France) <br> - Marechal Pilsudski (Pologne) <br> - Amiral Horthy (Hongrie)"],
