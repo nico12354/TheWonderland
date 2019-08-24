@@ -125,7 +125,7 @@ function changelesson ()
 		arrayq = histoireartdiapo;
 	} else if (lessonselect == "mo") {
 		arrayq = mots;
-	)
+	}
 	nq = 0;
 	refresh()
 }
