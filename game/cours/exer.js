@@ -1,4 +1,4 @@
-var arrayq = histoireartdiapo;
+var arrayq = mots;
 
 var question = document.getElementById("q");
 var response = document.getElementById("r");
@@ -123,7 +123,9 @@ function changelesson ()
 		arrayq = economie;
 	} else if (lessonselect == "hadi") {
 		arrayq = histoireartdiapo;
-	}
+	} else if (lessonselect == "mo") {
+		arrayq = mots;
+	)
 	nq = 0;
 	refresh()
 }
