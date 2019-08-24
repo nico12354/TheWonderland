@@ -1,8 +1,24 @@
 var mots = [
-["odeur particulière, habituellement agréable, que prend la terre après la pluie. <br> <I> « L’odeur de la terre après la pluie, on appelle ça le pétrichor. Mais la ville mouillée, je crois que ça n'a pas de nom. » <I>","pétrichor"],
-["",""],
-["",""]
-
+["- odeur particulière, habituellement agréable, que prend la terre après la pluie.","pétrichor"],
+["- crime commis par un fonctionnaire public dans l'exercice de ses fonctions (=prévarication) <br> - [dr. féodal] acte commis en violation du serment de foi prêté par un vassal à son suzerain et entraînant la confiscation du fief tenu par ce vassal. <br> p. ext.: manquement grave à une parole donnée, à son devoir; trahison de la confiance d'autrui.","forfaiture"],
+["- convenable, propice. Lieu, personne, solution [mot]","idoine"],
+["- couvrir d'une ombre <br> - assombrir, rendre terne, triste <br> - fig: cacher, recouvrir, dissimuler.","obombrer"],
+["- lueur, éclat","nitescence"],
+["- touffe de jeunes tiges sortant de la souche d'un arbre coupé <br> - bois d'un an ou deux","cépée"],
+["- qui pousse ou fleurit dans la neige <br> - qui se rapporte à la neige <br> - qui évoque la neige par sa blancheur","nivéal"],
+["- d'une couleur qui tire sur le blond, sur le jaune d'or","flavescent"],
+["- qui a de belles fesses, harmonieusement arrondies (peut aussi faire allusion au statue grec ex : vénus","callipyge"],
+["- séducteur, attirant","alliciant"],
+["- courbure d'une voûte ou d'une arcade <br> - p. anal: courbure d'une chose dont la forme rappelle celle d'une voûte","voussure"],
+["- qui a la transparence du verre","hyalin"],
+["- frémissement souvent accompagné d'un murmure, d'un doux bruissement","friselis"],
+["- propre à l'hivers, qui se produit en hibers (=hivernal) <br> - pour montagne ce sont les montagnes couvertent de neige éternelle","hiémal"],
+["- qu'on ne peut retenir, contenir. Frisson, haine, vomissements, baillements [mot]","incoercible"],
+["- qui ne peut se flétrir, impérissable","immarcescible"],
+["- orgueil exagéré, démesure. Le [mot] des dirigeants","hubris"],
+["- espace céleste considéré sous différents angles <br> - séjour des Dieux et des bienheureux <br> - (poét.) espace infini contenant les astres, plus particulièremet voûte céleste visible d'un point quelconque de la terre, limités par l'horizon <br> - monde imaginaire, lieu de délices","empyrée"],
+["- dresser un cheval aux exercices du manège <br> - manigancer <br> - qui agit avec adresse et ruse pour parvenir à ses fins.","manéger"],
+["- (peinture) teinte légère, transparente, qu'on étend sur une couleur sèche pour lui donner du brillant et harmoniser l'ensemble. <br> - fig.: apparence brillante qui met un voile sur la réalité (= vernis).","glacis"]
 
 ]
 
