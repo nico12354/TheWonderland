@@ -126,7 +126,7 @@ function changelesson ()
 	} else if (lessonselect == "mo") {
 		arrayq = mots;
 	} else if (lessonselect == "monv") {
-		arrayq = mots_nouveau;
+		arrayq = new_mots;
 	}
 	nq = 0;
 	refresh()
