@@ -1,3 +1,17 @@
+var new_mots = [
+["- calmer, adoucir, apaiser, soulager","lénifier"],
+["- pierre siliceuse opaque et très dure, de coloration très vive et souvent bigarrée dont on fait des bijoux, des éléments d'architecture, des pièces d'ameublement. ","jaspe"],
+["- tache ronde dont le centre est d'une autre couleur que la circonférence, et dont sont pourvus certains animaux (ex: félins, oiseaux, papillons). <br> -  littér.: tache colorée, de forme arrondie, qui se détache sur un fond d'une autre couleur. ","ocelle"],
+["- pourvu d'une queue. Créature, étoile, lettre [mot]","caudé"],
+["- qui brille avec des reflets irisés (= couleurs de l'arc-en-ciel). ","iridescent"],
+["- lieu sauvage, isolé et paisible, où l'on mène une vie retirée et calme","thébaïde"],
+["- qui accomplit des miracles","thaumaturge"],
+["- impassible <br> - qui n'éprouve ou ne laisse paraître aucune peur; qui semble indifférent ","impavide"],
+["- du soir. Lumière, ombre, brise [mot]","vespéral"],
+["- d'une couleur située entre le rose et le rouge, et rappelant celle de la chair. ","incarnat"]
+]
+
+
 var mots = [
 ["- odeur particulière, habituellement agréable, que prend la terre après la pluie.","pétrichor"],
 ["- crime commis par un fonctionnaire public dans l'exercice de ses fonctions (=prévarication) <br> - [dr. féodal] acte commis en violation du serment de foi prêté par un vassal à son suzerain et entraînant la confiscation du fief tenu par ce vassal. <br> p. ext.: manquement grave à une parole donnée, à son devoir; trahison de la confiance d'autrui.","forfaiture"],
@@ -18,8 +32,17 @@ var mots = [
 ["- orgueil exagéré, démesure. Le [mot] des dirigeants","hubris"],
 ["- espace céleste considéré sous différents angles <br> - séjour des Dieux et des bienheureux <br> - (poét.) espace infini contenant les astres, plus particulièremet voûte céleste visible d'un point quelconque de la terre, limités par l'horizon <br> - monde imaginaire, lieu de délices","empyrée"],
 ["- dresser un cheval aux exercices du manège <br> - manigancer <br> - qui agit avec adresse et ruse pour parvenir à ses fins.","manéger"],
-["- (peinture) teinte légère, transparente, qu'on étend sur une couleur sèche pour lui donner du brillant et harmoniser l'ensemble. <br> - fig.: apparence brillante qui met un voile sur la réalité (= vernis).","glacis"]
-
+["- (peinture) teinte légère, transparente, qu'on étend sur une couleur sèche pour lui donner du brillant et harmoniser l'ensemble. <br> - fig.: apparence brillante qui met un voile sur la réalité (= vernis).","glacis"],
+["- calmer, adoucir, apaiser, soulager","lénifier"],
+["- pierre siliceuse opaque et très dure, de coloration très vive et souvent bigarrée dont on fait des bijoux, des éléments d'architecture, des pièces d'ameublement. ","jaspe"],
+["- tache ronde dont le centre est d'une autre couleur que la circonférence, et dont sont pourvus certains animaux (ex: félins, oiseaux, papillons). <br> -  littér.: tache colorée, de forme arrondie, qui se détache sur un fond d'une autre couleur. ","ocelle"],
+["- pourvu d'une queue. Créature, étoile, lettre [mot]","caudé"],
+["- qui brille avec des reflets irisés (= couleurs de l'arc-en-ciel). ","iridescent"],
+["- lieu sauvage, isolé et paisible, où l'on mène une vie retirée et calme","thébaïde"],
+["- qui accomplit des miracles","thaumaturge"],
+["- impassible <br> - qui n'éprouve ou ne laisse paraître aucune peur; qui semble indifférent ","impavide"],
+["- du soir. Lumière, ombre, brise [mot]","vespéral"],
+["- d'une couleur située entre le rose et le rouge, et rappelant celle de la chair. ","incarnat"]
 ]
 
 
